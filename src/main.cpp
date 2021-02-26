@@ -10,7 +10,8 @@
 
 int val;
 
-void setup() {
+void setup()
+{
 	pinMode(redPin, OUTPUT);
 	pinMode(bluePin, OUTPUT);
 	pinMode(greenPin, OUTPUT);
